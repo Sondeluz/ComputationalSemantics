@@ -8,3 +8,5 @@ A demo of two projects from the Computational Semantics course in Intelligent In
     - Add the reply's depth 
     - Add the main post/Twitter thread title/contents
     - Add the comment the reply is answering to
+
+Developed alongside Eder Ruiz and Stephen Buttner
